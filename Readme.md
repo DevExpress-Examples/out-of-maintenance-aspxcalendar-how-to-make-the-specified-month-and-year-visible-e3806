@@ -5,6 +5,9 @@
 * [JScript.js](./CS/WebSite/JScript.js) (VB: [JScript.js](./VB/WebSite/JScript.js))
 <!-- default file list end -->
 # ASPxCalendar - How to make the specified month and year visible 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3806)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to use the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxEditorsScriptsASPxClientCalendar_SetVisibleDatetopic"><u>SetVisibleDate</u></a> method to specify the month and year that should be displayed within the calendar. </p><p><strong>See also:</strong><br />
